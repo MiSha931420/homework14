@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+div {
+    
+    width: 300px;
+    padding: 25px;
+    border : 5px solid red;
+    margin: 25px;
+    
+    }
+.box{
+    width: 700px;
+    height: 500px;
+    margin: 50px;
+    padding: 0%;
+    justify-content: center;
+    background-color: rgb(3, 7, 7)
+    
+}
+.in-box{
+    width: 93%;
+    height: 42%;
+    margin: ;
+    padding: 60px;
+    background-color: rgb(135, 222, 195);
+}
+h1{
+    margin: 30px 30px 30px 20px;
+    margin-left: 20% ;
+    
+    background-color: black  ;
+    color: rgb(249, 248, 246)
+    
+}
